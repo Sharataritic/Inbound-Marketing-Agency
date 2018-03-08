@@ -1,4 +1,4 @@
-# nbound-Marketing-Agency
+# 2018 Inbound Marketing Agency Tools List
 Marketing Agency helps to increase efficiency, productivity, and performance. There are tools you can find for free or at little cost. Also, it helps to grow your business.
 * [Aritic PinPoint](https://aritic.com) - It is a B2B marketing automation software that helps you acquire and engage the right customers and also improve your lead quality, speed up your conversions and simultaneously bring your marketing-sales team together.
 * [HubSpot](http://hubspot.com/) - It is an all in one marketing automation software that gets your content in front of the right people and drives more traffic to your key landing pages.
